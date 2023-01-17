@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [react-native-2fa](modules/2fa)
 - [django-two-factor-authentication](backend/modules)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
